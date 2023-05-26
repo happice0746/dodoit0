@@ -1,0 +1,163 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "34995859",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e8ba",
+      "unicode_decimal": 59578
+    },
+    {
+      "icon_id": "34997106",
+      "name": "我的",
+      "font_class": "wode1",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "34997121",
+      "name": "打卡",
+      "font_class": "daka",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "34997139",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "34997146",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "35005760",
+      "name": "music",
+      "font_class": "music",
+      "unicode": "e50f",
+      "unicode_decimal": 58639
+    },
+    {
+      "icon_id": "35005766",
+      "name": "lightbulb",
+      "font_class": "lightbulb",
+      "unicode": "e510",
+      "unicode_decimal": 58640
+    },
+    {
+      "icon_id": "35006529",
+      "name": "bars",
+      "font_class": "bars",
+      "unicode": "e513",
+      "unicode_decimal": 58643
+    },
+    {
+      "icon_id": "35006771",
+      "name": "list-ul",
+      "font_class": "list-ul",
+      "unicode": "e516",
+      "unicode_decimal": 58646
+    },
+    {
+      "icon_id": "35007688",
+      "name": "play",
+      "font_class": "play",
+      "unicode": "e525",
+      "unicode_decimal": 58661
+    },
+    {
+      "icon_id": "35007961",
+      "name": "chart-line",
+      "font_class": "chart-line",
+      "unicode": "e528",
+      "unicode_decimal": 58664
+    },
+    {
+      "icon_id": "35007979",
+      "name": "pencil",
+      "font_class": "pencil",
+      "unicode": "e529",
+      "unicode_decimal": 58665
+    },
+    {
+      "icon_id": "35014035",
+      "name": "angle-double-left",
+      "font_class": "angle-double-left",
+      "unicode": "e53a",
+      "unicode_decimal": 58682
+    },
+    {
+      "icon_id": "35014057",
+      "name": "angle-double-right",
+      "font_class": "angle-double-right",
+      "unicode": "e53b",
+      "unicode_decimal": 58683
+    },
+    {
+      "icon_id": "35014207",
+      "name": "fw-eye",
+      "font_class": "fw-eye",
+      "unicode": "e53d",
+      "unicode_decimal": 58685
+    },
+    {
+      "icon_id": "35014462",
+      "name": "pause",
+      "font_class": "pause",
+      "unicode": "e541",
+      "unicode_decimal": 58689
+    },
+    {
+      "icon_id": "35017947",
+      "name": "qq",
+      "font_class": "qq",
+      "unicode": "e546",
+      "unicode_decimal": 58694
+    },
+    {
+      "icon_id": "35017948",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e547",
+      "unicode_decimal": 58695
+    },
+    {
+      "icon_id": "35043290",
+      "name": "add",
+      "font_class": "add",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "35043314",
+      "name": "check",
+      "font_class": "check",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "35043317",
+      "name": "close",
+      "font_class": "close",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "35045310",
+      "name": "qrcode",
+      "font_class": "qrcode",
+      "unicode": "e54b",
+      "unicode_decimal": 58699
+    }
+  ]
+}

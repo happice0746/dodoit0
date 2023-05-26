@@ -1,0 +1,108 @@
+@font-face {
+  font-family: "iconfont";
+  /* Project id  */
+  src: url('iconfont.ttf?t=1681540925616') format('truetype');
+}
+
+@font-face {
+  font-family: Alimama_ShuHeiTi_Bold;
+  src: url('./Alimama_ShuHeiTi_Bold.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-wode:before {
+  content: "\e8ba";
+}
+
+.icon-wode1:before {
+  content: "\e67e";
+}
+
+.icon-daka:before {
+  content: "\e67f";
+}
+
+.icon-fenxiang:before {
+  content: "\e680";
+}
+
+.icon-shezhi:before {
+  content: "\e681";
+}
+
+.icon-music:before {
+  content: "\e50f";
+}
+
+.icon-lightbulb:before {
+  content: "\e510";
+}
+
+.icon-bars:before {
+  content: "\e513";
+}
+
+.icon-list-ul:before {
+  content: "\e516";
+}
+
+.icon-play:before {
+  content: "\e525";
+}
+
+.icon-chart-line:before {
+  content: "\e528";
+}
+
+.icon-pencil:before {
+  content: "\e529";
+}
+
+.icon-angle-double-left:before {
+  content: "\e53a";
+}
+
+.icon-angle-double-right:before {
+  content: "\e53b";
+}
+
+.icon-fw-eye:before {
+  content: "\e53d";
+}
+
+.icon-pause:before {
+  content: "\e541";
+}
+
+.icon-qq:before {
+  content: "\e546";
+}
+
+.icon-github:before {
+  content: "\e547";
+}
+
+.icon-add:before {
+  content: "\e65a";
+}
+
+.icon-check:before {
+  content: "\e65b";
+}
+
+.icon-close:before {
+  content: "\e65c";
+}
+
+.icon-qrcode:before {
+  content: "\e54b";
+}
