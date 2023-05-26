@@ -20,7 +20,7 @@ export default {
             这是我的Github账号, 会在这上面持续更新该项目的源码~
         </div>
         <div class="jump">
-            <span>LINK-</span><a href="https://github.com/w62459770/my-code" target="_blank">GITHUB</a>
+            <span>LINK-</span><a href="https://github.com/w62459770/dodoit0" target="_blank">GITHUB</a>
         </div>
     </div>
 </template>
